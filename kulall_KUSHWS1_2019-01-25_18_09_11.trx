@@ -50,16 +50,12 @@
         </ErrorInfo>
       </Output>
       <ResultFiles>
-        <ResultFile path="KUSHWS1\LogStore.txt" />
-        <ResultFile path="KUSHWS1\LogStore[1].txt" />
-        <ResultFile path="KUSHWS1\LogStore[2].txt" />
-        <ResultFile path="KUSHWS1\LogStore[3].txt" />
-        <ResultFile path="KUSHWS1\LogStore[4].txt" />
-        <ResultFile path="KUSHWS1\LogStore[5].txt" />
-        <ResultFile path="KUSHWS1\LogStore[6].txt" />
-        <ResultFile path="KUSHWS1\LogStore[7].txt" />
-        <ResultFile path="KUSHWS1\LogStore[8].txt" />
-        <ResultFile path="KUSHWS1\LogStore[9].txt" />
+        <ResultFile path="../../../LogStore.txt" />
+        <ResultFile path="../../../LogStore[1].txt" />
+        <ResultFile path="../../../LogStore[2].txt" />
+        <ResultFile path="../../../LogStore[3].txt" />
+        <ResultFile path="../../../LogStore[4].txt" />
+        <ResultFile path="../../../LogStore[5].txt" />
       </ResultFiles>
     </UnitTestResult>
   </Results>
