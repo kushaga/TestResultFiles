@@ -2932,7 +2932,7 @@
       <Collector agentName="TFSBUILD110" uri="datacollector://microsoft/CodeCoverage/2.0" collectorDisplayName="Code Coverage">
         <UriAttachments>
           <UriAttachment>
-            <A href="C:\\LogStore.txt"></A>
+            <A href="C:\\LogStore.covx"></A>
           </UriAttachment>
           <UriAttachment>
             <A href="C:\\LogStore[1].txt"></A>
