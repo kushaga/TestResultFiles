@@ -2932,10 +2932,10 @@
       <Collector agentName="TFSBUILD110" uri="datacollector://microsoft/CodeCoverage/2.0" collectorDisplayName="Code Coverage">
         <UriAttachments>
           <UriAttachment>
-            <A href="TFSBUILD110\microsoft.visualstudio.services.tcm.server.common.dll-1543916602.covx"></A>
+            <A href="C:\\LogStore.txt"></A>
           </UriAttachment>
           <UriAttachment>
-            <A href="TFSBUILD110\microsoft.visualstudio.services.tcm.server.common.dll-1543916602.covb"></A>
+            <A href="C:\\LogStore[1].txt"></A>
           </UriAttachment>
         </UriAttachments>
       </Collector>
