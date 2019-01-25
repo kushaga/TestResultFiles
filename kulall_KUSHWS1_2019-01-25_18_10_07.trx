@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="d66487aa-952e-4b4d-94d3-0467ae5cf00b" name="kulall@KUSHWS1 2019-01-25 18:10:07" runUser="FAREAST\kulall" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-01-25T18:10:07.7748344+05:30" queuing="2019-01-25T18:10:07.7748344+05:30" start="2019-01-25T18:10:05.0278251+05:30" finish="2019-01-25T18:10:16.5083723+05:30" />
+  <TestSettings name="default" id="4bc6b49e-4850-4903-8934-a3e1965ef735">
+    <Deployment runDeploymentRoot="kulall_KUSHWS1_2019-01-25_18_10_07" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="baa5e3b5-9720-47f7-adc0-7feed60c0994" testId="45318ffb-81d9-25f8-f060-a97144697a0a" testName="TestMethod11" computerName="KUSHWS1" duration="00:00:00.0640698" startTime="2019-01-25T18:10:06.8918333+05:30" endTime="2019-01-25T18:10:06.9878315+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="baa5e3b5-9720-47f7-adc0-7feed60c0994">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestProject1.UnitTest1.TestMethod11() in C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 33&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="KUSHWS1\LogStore.txt" />
+        <ResultFile path="KUSHWS1\LogStore[1].txt" />
+        <ResultFile path="KUSHWS1\LogStore[2].txt" />
+        <ResultFile path="KUSHWS1\LogStore[3].txt" />
+        <ResultFile path="KUSHWS1\LogStore[4].txt" />
+        <ResultFile path="KUSHWS1\LogStore[5].txt" />
+        <ResultFile path="KUSHWS1\LogStore[6].txt" />
+        <ResultFile path="KUSHWS1\LogStore[7].txt" />
+        <ResultFile path="KUSHWS1\LogStore[8].txt" />
+        <ResultFile path="KUSHWS1\LogStore[9].txt" />
+      </ResultFiles>
+    </UnitTestResult>
+    <UnitTestResult executionId="27eb1cfd-9757-4dfe-96a9-c8852fb865a2" testId="7c66fbda-2d0e-a714-e18d-83c0464019a5" testName="Fail1" computerName="KUSHWS1" duration="00:00:03.0043665" startTime="2019-01-25T18:10:07.0278312+05:30" endTime="2019-01-25T18:10:10.0338404+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27eb1cfd-9757-4dfe-96a9-c8852fb865a2">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTestProject1.UnitTest1.Fail1() in C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 96&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="775850ab-5c91-4c74-a09a-42fa90018c7d" testId="0596bb2b-0e75-bd18-c533-421c006a056b" testName="Fail20" computerName="KUSHWS1" duration="00:00:00.0020494" startTime="2019-01-25T18:10:16.0623690+05:30" endTime="2019-01-25T18:10:16.0653697+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="775850ab-5c91-4c74-a09a-42fa90018c7d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTestProject1.UnitTest1.Fail20() in C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 142&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8f77913c-9aaa-410a-bbf6-0fd73c617a95" testId="75a3bc6c-5c8a-1e8a-497b-e632f9771662" testName="Fail10" computerName="KUSHWS1" duration="00:00:03.0023677" startTime="2019-01-25T18:10:13.0518466+05:30" endTime="2019-01-25T18:10:16.0553702+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f77913c-9aaa-410a-bbf6-0fd73c617a95">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTestProject1.UnitTest1.Fail10() in C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 137&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ccd11192-13af-4dc5-8479-077067728d27" testId="a9d0a865-47ef-0673-67ca-e57147dff1a9" testName="Fail2" computerName="KUSHWS1" duration="00:00:03.0023086" startTime="2019-01-25T18:10:10.0418388+05:30" endTime="2019-01-25T18:10:13.0448467+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ccd11192-13af-4dc5-8479-077067728d27">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at UnitTestProject1.UnitTest1.Fail2() in C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 102&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Fail1" storage="c:\agent\_work\4\s\unittestproject1\unittestproject1\bin\release\unittestproject1.dll" id="7c66fbda-2d0e-a714-e18d-83c0464019a5">
+      <Execution id="27eb1cfd-9757-4dfe-96a9-c8852fb865a2" />
+      <TestMethod codeBase="C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\bin\Release\UnitTestProject1.dll" adapterTypeName="executor://mstestadapter/v1" className="UnitTestProject1.UnitTest1" name="Fail1" />
+    </UnitTest>
+    <UnitTest name="TestMethod11" storage="c:\agent\_work\4\s\unittestproject1\unittestproject1\bin\release\unittestproject1.dll" priority="1" id="45318ffb-81d9-25f8-f060-a97144697a0a">
+      <Owners>
+        <Owner name="some1" />
+      </Owners>
+      <Execution id="baa5e3b5-9720-47f7-adc0-7feed60c0994" />
+      <TestMethod codeBase="C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\bin\Release\UnitTestProject1.dll" adapterTypeName="executor://mstestadapter/v1" className="UnitTestProject1.UnitTest1" name="TestMethod11" />
+    </UnitTest>
+    <UnitTest name="Fail10" storage="c:\agent\_work\4\s\unittestproject1\unittestproject1\bin\release\unittestproject1.dll" id="75a3bc6c-5c8a-1e8a-497b-e632f9771662">
+      <Execution id="8f77913c-9aaa-410a-bbf6-0fd73c617a95" />
+      <TestMethod codeBase="C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\bin\Release\UnitTestProject1.dll" adapterTypeName="executor://mstestadapter/v1" className="UnitTestProject1.UnitTest1" name="Fail10" />
+    </UnitTest>
+    <UnitTest name="Fail20" storage="c:\agent\_work\4\s\unittestproject1\unittestproject1\bin\release\unittestproject1.dll" id="0596bb2b-0e75-bd18-c533-421c006a056b">
+      <Execution id="775850ab-5c91-4c74-a09a-42fa90018c7d" />
+      <TestMethod codeBase="C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\bin\Release\UnitTestProject1.dll" adapterTypeName="executor://mstestadapter/v1" className="UnitTestProject1.UnitTest1" name="Fail20" />
+    </UnitTest>
+    <UnitTest name="Fail2" storage="c:\agent\_work\4\s\unittestproject1\unittestproject1\bin\release\unittestproject1.dll" id="a9d0a865-47ef-0673-67ca-e57147dff1a9">
+      <Execution id="ccd11192-13af-4dc5-8479-077067728d27" />
+      <TestMethod codeBase="C:\agent\_work\4\s\UnitTestProject1\UnitTestProject1\bin\Release\UnitTestProject1.dll" adapterTypeName="executor://mstestadapter/v1" className="UnitTestProject1.UnitTest1" name="Fail2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="45318ffb-81d9-25f8-f060-a97144697a0a" executionId="baa5e3b5-9720-47f7-adc0-7feed60c0994" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c66fbda-2d0e-a714-e18d-83c0464019a5" executionId="27eb1cfd-9757-4dfe-96a9-c8852fb865a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0596bb2b-0e75-bd18-c533-421c006a056b" executionId="775850ab-5c91-4c74-a09a-42fa90018c7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75a3bc6c-5c8a-1e8a-497b-e632f9771662" executionId="8f77913c-9aaa-410a-bbf6-0fd73c617a95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9d0a865-47ef-0673-67ca-e57147dff1a9" executionId="ccd11192-13af-4dc5-8479-077067728d27" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="0" failed="5" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>Data collection : Logging DataCollector Diagnostics in file: C:\agent\_work\_temp\Attempt-5_a3fb02fa-a2af-497b-bab0-e294e35f23bb.datacollector.19-01-25_18-10-05_05582_1.diagLogging TestHost Diagnostics in file: C:\agent\_work\_temp\Attempt-5_a3fb02fa-a2af-497b-bab0-e294e35f23bb.host.19-01-25_18-10-05_74684_1.diag</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
