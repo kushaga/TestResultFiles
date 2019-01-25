@@ -18,11 +18,11 @@
     <UnitTestResult executionId="a8fc3143-937f-40ab-a224-b5adaef6912a" testId="7b8b3965-30c9-8915-77cd-f56f955bc8f3" testName="Pass30" computerName="KUSHWS1" duration="00:00:03.0005725" startTime="2019-01-24T15:08:41.0564415+05:30" endTime="2019-01-24T15:08:44.0578271+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8fc3143-937f-40ab-a224-b5adaef6912a" />
     <UnitTestResult executionId="4d7d7d18-b5d4-4aa9-947a-54d892fbcd41" testId="45318ffb-81d9-25f8-f060-a97144697a0a" testName="TestMethod11" computerName="KUSHWS1" duration="00:00:00.0044273" startTime="2019-01-24T15:08:16.7517559+05:30" endTime="2019-01-24T15:08:16.9098093+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d7d7d18-b5d4-4aa9-947a-54d892fbcd41">
       <ResultFiles>
-        <ResultFile path="C:\\LogStore.txt" />
-        <ResultFile path="C:\\LogStore[1].txt" />
-        <ResultFile path="https://github.com/kushaga/TestResultFiles.git" />
-        <ResultFile path="C:\\LogStore[3].txt" />
-        <ResultFile path="C:\\LogStore[4].txt" />
+        <ResultFile path="LogStore.txt" />
+        <ResultFile path="LogStore[1].txt" />
+        <ResultFile path="LogStore[2].txt" />
+        <ResultFile path="LogStore[3].txt" />
+        <ResultFile path="LogStore[4].txt" />
       </ResultFiles>
     </UnitTestResult>
     <UnitTestResult executionId="0deb8a95-1357-4e62-b22c-ff11d3aaafb7" testId="5ec80c74-dd0b-b800-e23e-3e2553454930" testName="Pass40" computerName="KUSHWS1" duration="00:00:03.0011613" startTime="2019-01-24T15:08:44.0628232+05:30" endTime="2019-01-24T15:08:47.0649474+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0deb8a95-1357-4e62-b22c-ff11d3aaafb7" />
