@@ -23,6 +23,7 @@
         <ResultFile path="../../../LogStore[2].txt" />
         <ResultFile path="../../../LogStore[3].txt" />
         <ResultFile path="../../../LogStore[4].txt" />
+        <ResultFile path="../../../LogStore[5].txt" />
       </ResultFiles>
     </UnitTestResult>
     <UnitTestResult executionId="0deb8a95-1357-4e62-b22c-ff11d3aaafb7" testId="5ec80c74-dd0b-b800-e23e-3e2553454930" testName="Pass40" computerName="KUSHWS1" duration="00:00:03.0011613" startTime="2019-01-24T15:08:44.0628232+05:30" endTime="2019-01-24T15:08:47.0649474+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0deb8a95-1357-4e62-b22c-ff11d3aaafb7" />
