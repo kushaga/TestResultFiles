@@ -32,16 +32,12 @@
         </ErrorInfo>
       </Output>
       <ResultFiles>
-        <ResultFile path="KUSHWS1\LogStore.txt" />
-        <ResultFile path="KUSHWS1\LogStore[1].txt" />
-        <ResultFile path="KUSHWS1\LogStore[2].txt" />
-        <ResultFile path="KUSHWS1\LogStore[3].txt" />
-        <ResultFile path="KUSHWS1\LogStore[4].txt" />
-        <ResultFile path="KUSHWS1\LogStore[5].txt" />
-        <ResultFile path="KUSHWS1\LogStore[6].txt" />
-        <ResultFile path="KUSHWS1\LogStore[7].txt" />
-        <ResultFile path="KUSHWS1\LogStore[8].txt" />
-        <ResultFile path="KUSHWS1\LogStore[9].txt" />
+        <ResultFile path="../../../LogStore.txt" />
+        <ResultFile path="../../../LogStore[1].txt" />
+        <ResultFile path="../../../LogStore[2].txt" />
+        <ResultFile path="../../../LogStore[3].txt" />
+        <ResultFile path="../../../LogStore[4].txt" />
+        <ResultFile path="../../../LogStore[5].txt" />
       </ResultFiles>
     </UnitTestResult>
     <UnitTestResult executionId="ebc07f98-5e7e-408a-b9cf-b664a0110f34" testId="75a3bc6c-5c8a-1e8a-497b-e632f9771662" testName="Fail10" computerName="KUSHWS1" duration="00:00:03.0027806" startTime="2019-01-25T18:08:23.6767827+05:30" endTime="2019-01-25T18:08:26.6803038+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ebc07f98-5e7e-408a-b9cf-b664a0110f34">
