@@ -14,16 +14,12 @@
         </ErrorInfo>
       </Output>
       <ResultFiles>
-        <ResultFile path="KUSHWS1\LogStore.txt" />
-        <ResultFile path="KUSHWS1\LogStore[1].txt" />
-        <ResultFile path="KUSHWS1\LogStore[2].txt" />
-        <ResultFile path="KUSHWS1\LogStore[3].txt" />
-        <ResultFile path="KUSHWS1\LogStore[4].txt" />
-        <ResultFile path="KUSHWS1\LogStore[5].txt" />
-        <ResultFile path="KUSHWS1\LogStore[6].txt" />
-        <ResultFile path="KUSHWS1\LogStore[7].txt" />
-        <ResultFile path="KUSHWS1\LogStore[8].txt" />
-        <ResultFile path="KUSHWS1\LogStore[9].txt" />
+        <ResultFile path="../../../LogStore.txt" />
+        <ResultFile path="../../../LogStore[1].txt" />
+        <ResultFile path="../../../LogStore[2].txt" />
+        <ResultFile path="../../../LogStore[3].txt" />
+        <ResultFile path="../../../LogStore[4].txt" />
+        <ResultFile path="../../../LogStore[5].txt" />
       </ResultFiles>
     </UnitTestResult>
     <UnitTestResult executionId="0dd7ba71-083a-46c7-bf40-da16ddcbc146" testId="a9d0a865-47ef-0673-67ca-e57147dff1a9" testName="Fail2" computerName="KUSHWS1" duration="00:00:03.0022724" startTime="2019-01-25T18:08:45.6189011+05:30" endTime="2019-01-25T18:08:48.6219753+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0dd7ba71-083a-46c7-bf40-da16ddcbc146">
