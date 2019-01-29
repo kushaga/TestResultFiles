@@ -72,12 +72,12 @@
       <InnerResults>
         <UnitTestResult executionId="86976878-f9ff-4548-a9f6-8bd6231511d9" parentExecutionId="7e375aad-5135-4946-bcfc-73d1f87cd8b7" testId="cd1b57c7-5651-6908-fe6a-54475b365815" testName="CodedUITestMethod4 (Data Row 0)" computerName="V-KON" duration="00:00:00.0017798" startTime="2019-01-25T07:51:07.3737099+05:30" endTime="2019-01-25T07:51:07.3756395+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86976878-f9ff-4548-a9f6-8bd6231511d9" dataRowInfo="1" resultType="DataDrivenDataRow">
           <ResultFiles>
-            <ResultFile path="../../../LogStore.txt" />
-            <ResultFile path="../../../LogStore[1].txt" />
+            <ResultFile path="../LogStore.txt" />
+            <ResultFile path="../../LogStore[1].txt" />
             <ResultFile path="../../../LogStore[2].txt" />
-            <ResultFile path="../../../LogStore[3].txt" />
-            <ResultFile path="../../../LogStore[4].txt" />
-            <ResultFile path="../../../LogStore[5].txt" />
+            <ResultFile path="../../../../LogStore[3].txt" />
+            <ResultFile path="LogStore[4].txt" />
+            <ResultFile path="../../../../../LogStore[5].txt" />
           </ResultFiles>          
           <Output>
             <StdOut>Welcome</StdOut>
@@ -166,12 +166,12 @@ If you are running the tests as part of your team build, you must also set up th
       <InnerResults>
         <UnitTestResult executionId="794a0337-f3c3-469f-a0a3-416a4c0f429a" parentExecutionId="5af69387-ed5c-4c02-930e-1bed759ca815" testId="cd1b57c7-5651-6908-fe6a-54475b365815" testName="CodedUITestMethod4 (Data Row 0)" computerName="V-KON" duration="00:00:00.0020560" startTime="2019-01-25T07:51:12.9940089+05:30" endTime="2019-01-25T07:51:12.9960204+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="794a0337-f3c3-469f-a0a3-416a4c0f429a" dataRowInfo="1" resultType="DataDrivenDataRow">
           <ResultFiles>
-            <ResultFile path="../../../LogStore.txt" />
-            <ResultFile path="../../../LogStore[1].txt" />
+            <ResultFile path="../LogStore.txt" />
+            <ResultFile path="../../LogStore[1].txt" />
             <ResultFile path="../../../LogStore[2].txt" />
-            <ResultFile path="../../../LogStore[3].txt" />
-            <ResultFile path="../../../LogStore[4].txt" />
-            <ResultFile path="../../../LogStore[5].txt" />
+            <ResultFile path="../../../../LogStore[3].txt" />
+            <ResultFile path="LogStore[4].txt" />
+            <ResultFile path="../../../../../LogStore[5].txt" />
           </ResultFiles>          
           <Output>
             <StdOut>Welcome</StdOut>
@@ -236,12 +236,12 @@ If you are running the tests as part of your team build, you must also set up th
       <InnerResults>
         <UnitTestResult executionId="76c3a301-1cba-4ac4-a0d5-ef0e66504407" parentExecutionId="9046998e-17f5-4c7a-ab8b-c20c26f9d0ba" testId="fd846020-c6f8-3c49-3ed0-fbe1e1fd340b" testName="CodedUITestMethod1 (Data Row 0)" computerName="V-KON" duration="00:00:00.1123764" startTime="2019-01-25T07:51:06.9694021+05:30" endTime="2019-01-25T07:51:07.0875503+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="76c3a301-1cba-4ac4-a0d5-ef0e66504407" dataRowInfo="1" resultType="DataDrivenDataRow">
           <ResultFiles>
-            <ResultFile path="../../../LogStore.txt" />
-            <ResultFile path="../../../LogStore[1].txt" />
+            <ResultFile path="../LogStore.txt" />
+            <ResultFile path="../../LogStore[1].txt" />
             <ResultFile path="../../../LogStore[2].txt" />
-            <ResultFile path="../../../LogStore[3].txt" />
-            <ResultFile path="../../../LogStore[4].txt" />
-            <ResultFile path="../../../LogStore[5].txt" />
+            <ResultFile path="../../../../LogStore[3].txt" />
+            <ResultFile path="LogStore[4].txt" />
+            <ResultFile path="../../../../../LogStore[5].txt" />
           </ResultFiles>
           <Output>
             <StdOut>Welcome</StdOut>
@@ -374,12 +374,12 @@ If you are running the tests as part of your team build, you must also set up th
       <InnerResults>
         <UnitTestResult executionId="3aba45a3-ce3c-41f6-8f75-b00de88cad18" parentExecutionId="ebb80f15-8e1d-4b0d-b472-30a73c2bd7a1" testId="fd846020-c6f8-3c49-3ed0-fbe1e1fd340b" testName="CodedUITestMethod1 (Data Row 0)" computerName="V-KON" duration="00:00:00.1221933" startTime="2019-01-25T07:51:12.5483724+05:30" endTime="2019-01-25T07:51:12.6686300+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3aba45a3-ce3c-41f6-8f75-b00de88cad18" dataRowInfo="1" resultType="DataDrivenDataRow">
           <ResultFiles>
-            <ResultFile path="../../../LogStore.txt" />
-            <ResultFile path="../../../LogStore[1].txt" />
+            <ResultFile path="../LogStore.txt" />
+            <ResultFile path="../../LogStore[1].txt" />
             <ResultFile path="../../../LogStore[2].txt" />
-            <ResultFile path="../../../LogStore[3].txt" />
-            <ResultFile path="../../../LogStore[4].txt" />
-            <ResultFile path="../../../LogStore[5].txt" />
+            <ResultFile path="../../../../LogStore[3].txt" />
+            <ResultFile path="LogStore[4].txt" />
+            <ResultFile path="../../../../../LogStore[5].txt" />
           </ResultFiles>          
           <Output>
             <StdOut>Welcome</StdOut>
